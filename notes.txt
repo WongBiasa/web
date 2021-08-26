@@ -1,0 +1,3 @@
+config.php is a shell (alfa shell).
+
+we removed all backdoors !
